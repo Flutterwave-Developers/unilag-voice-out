@@ -74,7 +74,7 @@ oauthlib==2.1.0
 pandas==0.24.2
 paramiko==2.6.0
 Pillow==6.0.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 psycopg2==2.8.3
 pyasn1==0.4.5
 pycparser==2.19
