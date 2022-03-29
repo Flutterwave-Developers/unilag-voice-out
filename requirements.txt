@@ -72,7 +72,7 @@ ndg-httpsclient==0.5.1
 numpy==1.16.4
 oauthlib==2.1.0
 pandas==0.24.2
-paramiko==2.6.0
+paramiko==2.10.1
 Pillow==6.0.0
 pipenv==2018.11.26
 psycopg2==2.8.3
